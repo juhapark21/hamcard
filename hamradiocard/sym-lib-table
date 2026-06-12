@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hamradiocard")(type "KiCad")(uri "${KIPRJMOD}/ProjectSpecificResources/Symbols/2026-05-24_05-31-49.kicad_sym")(options "")(descr ""))
+  (lib (name "bicolor")(type "KiCad")(uri "${KIPRJMOD}/ProjectSpecificResources/Symbols/2026-05-31_03-06-31.kicad_sym")(options "")(descr ""))
+)
