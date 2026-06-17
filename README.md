@@ -39,4 +39,4 @@ The design and build process is documented in detail [here](https://fallout.hack
 Thank you Paul N0NBH for the solar-terrestrial [data](https://www.hamqsl.com/).  
 
 ## Zine page 
-<img width="1410" height="2000" alt="Zine - radiocard" src="https://github.com/user-attachments/assets/54830666-6d41-4dde-9a51-4925c4badb96" />
+<img width="1410" height="2000" alt="Zine - radiocard" src="https://github.com/user-attachments/assets/4c8d6017-3ebf-46bf-977e-8fbe67c5ddc9" />
